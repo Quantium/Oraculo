@@ -1,4 +1,4 @@
 Oraculo
 =======
 
-Do you know your fortune. You can now asking to the Oraculo. Oraculo is a arduino simple and educational project only.
+Do you want to know your fortune. You can now ask it to Oraculo. Oraculo is an arduino simple and educational project.
